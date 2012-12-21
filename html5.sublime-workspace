@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ge",
+				"get"
+			],
+			[
+				"even",
+				"eventDate"
+			],
+			[
+				"loa",
+				"loadFriends"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"emai",
+				"userEmail"
+			],
+			[
+				"use",
+				"userName"
+			],
+			[
+				"fb",
+				"Fb"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"N",
+				"NONE"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"conne",
+				"connection"
+			],
+			[
+				"con",
+				"containerHeight"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"contr",
+				"controller"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"home",
+				"HomeHorizontal"
+			],
+			[
+				"get",
+				"getPhoto"
+			],
+			[
+				"swi",
+				"swipeGalleryRight"
+			],
+			[
+				"swipeG",
+				"swipeGalleryLeft"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"fun",
+				"functions"
+			],
+			[
+				"sub",
+				"subcat2"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"h",
+				"h4	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"las",
+				"lastLazyBizChanged"
+			],
+			[
+				"customer",
+				"customers"
+			],
+			[
+				"Bi",
+				"Biz"
+			],
+			[
+				"Biz",
+				"BizCounterOffer"
+			],
+			[
+				"tot",
+				"totalPriceLead"
+			],
+			[
+				"reserva",
+				"reservationMode"
+			],
+			[
+				"Nu",
+				"Nummux"
+			],
+			[
+				"custom",
+				"customer"
+			],
+			[
+				"Num",
+				"NummuxUser"
+			],
+			[
+				"picture",
+				"pictureBiz"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"cu",
+				"currentOrientation"
+			],
+			[
+				"co",
+				"Controller"
+			],
+			[
+				"Lazy",
+				"lazyBiz"
+			],
+			[
+				"Mobile",
+				"nummux-mobile-parser"
+			],
+			[
+				"laz",
+				"lazyBiz"
+			],
+			[
+				"lazy",
+				"lazyLoadBiz"
+			],
+			[
+				"st",
+				"startLazyLoading"
+			],
+			[
+				"pa",
+				"pageslide"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"svn",
+				"Preferences: SVN Settings"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/js/views/teams/school-not-found.js",
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/templates/friends/friends-list.html",
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/js/views/events/error-event-exists.js",
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/js/views/events/event-creation.js",
+		"/Users/edWAR6/Library/Application Support/Sublime Text 2/Packages/SVN/SVN.sublime-settings",
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/js/views/events/game-main.js",
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/js/router.js",
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/templates/globals/inline-templates.html",
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/templates/events/game-main.html",
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/index.html",
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/js/main.js",
+		"/Users/edWAR6/Work/thawing-retreat-2681/views/index.ejs",
+		"/Users/edWAR6/Work/thawing-retreat-2681/web.js",
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/templates/globals/fb-like-js.html",
+		"/Users/edWAR6/Work/edge/trunk/mobile-web/sftp-config.json",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/scripts/main.js",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/scripts/parser/nummux-mobile-parser-debug.js",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/test/howsTo.html",
+		"/Users/edWAR6/Downloads/cubiq-iscroll-cb1ddd3/examples/horizontal-scroll/index.html",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/themes/default/css/main.css",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/scripts/jquery.lazyloader.js",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/scripts/parser/nummux-mobile-parser.js",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/scripts/parser/nummux-mobile-dummy-data.js",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/scripts/controller.js",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/index.html",
+		"/Users/edWAR6/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/themes/default/css/nummux.css",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/howsTo.html",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/index 2.html",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/scripts/parser/nummux-mobile-index.js",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/test.html",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/themes/default/css/main2.css",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/themes/default/css/jquery.mobile-1.2.0.css",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/iphone/nummux-iphone/www/themes/default/css/main2",
+		"/Users/edWAR6/Downloads/htmlLoader/nummux-mobile-dummy-data.js",
+		"/Users/edWAR6/Downloads/htmlLoader/nummux-mobile-parser.js",
+		"/Users/edWAR6/Downloads/htmlLoader/howsTo.html",
+		"/Users/edWAR6/Downloads/htmlLoader/index.html",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/common/www/themes/default/css/jquery.mobile-1.2.0.css",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/common/www/index.html",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/common/www/scripts/controller.js",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/common/www/search.html",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/common/www/myBiz.html",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/common/www/themes/default/css/jquery.mobile-1.1.0.css",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/common/www/themes/default/css/jquery.mobile.theme-1.1.0.css",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/common/www/themes/default/css/jquery.mobile-1.1.0.min.css",
+		"/Users/edWAR6/Work/nummux/nummux-mobile/common/www/themes/default/css/jquery.mobile.theme-1.1.0.min.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/edWAR6/Work/edge/trunk/mobile-web/",
+			"/Users/edWAR6/Work/edge/trunk/mobile-web/templates",
+			"/Users/edWAR6/Work/edge/trunk/mobile-web"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Utils.get",
+			"event-de",
+			"<a ",
+			"Utils.post",
+			"utils.post",
+			"currentEvent",
+			"format",
+			"dateFormat",
+			"event_date",
+			"toDateString",
+			"pop', true, true);",
+			"utils.post",
+			"EDGE.app",
+			"localStorage",
+			"mlns:fb=\"http://ogp.me/ns/fb",
+			"facebook-jssdk",
+			"loginUser",
+			"controller.",
+			"loginUser",
+			"pop', true, true);",
+			"error",
+			"nummuxcore",
+			"login",
+			"Parser",
+			"dialog",
+			"    \n",
+			"background",
+			"localhost:8080",
+			"8080",
+			"lazyLoadBiz",
+			"enableLogInSignInEvents",
+			"logTimelogTime",
+			"logTime",
+			"lazyLoadBiz",
+			"mageContainer",
+			"lazyLoadBiz",
+			"verticalBizList",
+			"lazyLoadBiz",
+			"64",
+			"62",
+			"lazyLoadBiz",
+			"horizontalBiz",
+			"lazyLoadBiz",
+			"loadHScroll",
+			"DOM",
+			"loadHScroll",
+			"wrapper",
+			"hori\nhori\nwrapper",
+			"].lookingFor",
+			"lazyBiz[0].lookingFor",
+			"changePage",
+			"port",
+			"window",
+			"naviga",
+			"getCurrentOrientation",
+			"parseTheParserExpression",
+			"pictureBiz",
+			"lookingForList",
+			"parseTheForEachExpression",
+			"parseTemplate",
+			"subCategory",
+			"[0]",
+			"subCategories",
+			"ategory",
+			"bizCategory",
+			"ategory",
+			"bizCategory",
+			"dash",
+			"data-fullscreen=\"true\"",
+			"login",
+			"alert",
+			"onPhotoDataSuccess",
+			"onPhotoFail",
+			"onPhotoDataSuccess",
+			"console.log",
+			"pictureSource",
+			"onPhotoDataSuccess",
+			"successCallback",
+			"var controller = new Nummux.Mobile.Controller();",
+			"bizPictures",
+			"galleryOption",
+			"biz[0",
+			"%biz.",
+			"lazyBiz",
+			"logTime",
+			"lazyBiz[a]",
+			"bizList",
+			"data-parser=\"f",
+			"parseTheForEachExpression",
+			"Available[",
+			"bizDescription",
+			"galleryButtonOff",
+			"loadBizEvents",
+			"bizHeader",
+			"logIn",
+			"logInTest",
+			"logInSignIn",
+			"picturesBiz",
+			"    ",
+			"Log.consoleLogger",
+			"startLazyLoading",
+			">\n",
+			"class=\"lazy\"",
+			"Cyty",
+			"subCategory",
+			"SubCategory",
+			"new Date();",
+			"bizSubcategory",
+			"BizSubcategory",
+			"BizCounter",
+			"Status",
+			"= new Number();",
+			"= new Boolean();",
+			"= new String();",
+			"images",
+			"data-them",
+			"data-theme",
+			"logInSignIn",
+			"midna",
+			"parseTheForEachExpression",
+			"controller",
+			"img",
+			"images",
+			"image",
+			"images",
+			"icons-18-black"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bizSubCategory",
+			"bizSubCategories",
+			"alert",
+			"%lazyBiz[a].",
+			"biz",
+			"lazyBiz",
+			"",
+			"  ",
+			"\"\";",
+			"= \"\";"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 198.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true
+}
